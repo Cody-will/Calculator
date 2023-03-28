@@ -1,4 +1,4 @@
-# Separates the values and symbols
+# Separates the values and operators, so they can be worked with separately.
 
 class Separate:
     def __init__(self, *args):
